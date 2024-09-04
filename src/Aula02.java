@@ -13,6 +13,6 @@ public class Aula02 {
             System.out.println("Altura: " + altura + " metros");
             System.out.println("Inicial do nome: " + inicial);
             System.out.println("É estudante? " + estudante);
-
+            System.out.println("É estudante? " + estudante);
     }
 }
